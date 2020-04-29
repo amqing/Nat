@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="D:\Updater\Timeline\Timeline_V2.5.7.6\packages\Xam.Plugins.Android.ExoPlayer.Dash.2.8.2\lib\monoandroid81\ExoPlayer.Dash.dll" /&gt;&#xD;
+  &lt;Assembly Path="D:\Updater\Timeline\Timeline_V2.6.1\packages\Xam.Plugins.Android.ExoPlayer.Leanback.2.8.7\lib\monoandroid81\ExoPlayer.Ext.Leanback.dll" /&gt;&#xD;
+  &lt;Assembly Path="D:\Updater\Timeline\Timeline_V2.6.5_Payment\packages\Xam.Plugins.Android.ExoPlayer.Leanback.2.9.8\lib\monoandroid90\ExoPlayer.Ext.Leanback.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Dcim/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
